@@ -22,8 +22,8 @@ XPasswordGen is an application that allows you to create secure and random passw
 
 ## **Contribute**
 
-XPasswordGen is an open-source project. If you're interested in contributing, you can find the source code and instructions to get involved on our GitHub repository. We welcome your support and ideas to enhance the application.
+XPasswordGen is an open-source project. If you're interested in contributing, you can find the source code and instructions to get involved on my GitHub repository. We welcome your support and ideas to enhance the application.
 
 ## **System Requirements**
 
-- Windows 10 or later platform (preferably 22H2 version).
+- Windows 10 with all updates installed or later versions.
